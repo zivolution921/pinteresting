@@ -1,0 +1,4 @@
+<%= link_to "home" , root_path %>
+<h1>About us</h1>
+<p> we are working on out one month rails pinteresting app!</p
+
